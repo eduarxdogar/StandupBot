@@ -8,7 +8,7 @@ StandupBot es un bot de Discord desarrollado en **Node.js** con la librería **d
 - **discord.js v14** - Librería para interactuar con la API de Discord.
 - **dotenv** - Para manejar variables de entorno de manera segura.
 - **mysql2** - Para la conexión con una base de datos MySQL.
-- **sequelize** - ORM para manejar la base de datos de forma sencilla.
+
 
 ## 📦 Instalación
 
